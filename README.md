@@ -44,8 +44,8 @@ This project predicts daily rain occurrence using historical weather data (over 
 5. **Modify as Needed:** To experiment with different scenarios or extend the prediction horizon, adjust parameters in the Future Data section.
 
 ### Team Members
-- **Team Leader:** [Your Name]
-- **Collaborators:** [Team Member 1], [Team Member 2], [Team Member 3], ...
+- **Team Leader:** Nilesh Ravishan
+- **Collaborators:** Ahmed Munavvar, Savindu Wickramasinghe,Sahas Eashan
 
 ### License
 This project is licensed under the MIT License.
